@@ -1,0 +1,9 @@
+{
+  "name": "Мой современный сайт",
+  "short_name": "Мой сайт",
+  "description": "Пример сайта с мета-тегами и манифестом для PWA",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#4A90D9",
+  "theme_color": "#4A90D9",
+ }
